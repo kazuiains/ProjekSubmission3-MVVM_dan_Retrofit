@@ -1,0 +1,28 @@
+<resources>
+    <string name="idlanguage">en-US</string>
+    <string name="app_name">Catalogue Movie</string>
+    <string name="example_title">Re: Zero kara Hajimeru Isekai Seikatsu - Memory Snow</string>
+    <string name="example_rate">54</string>
+    <string name="example_release">October 6, 2018</string>
+    <string name="example_overview">Subaru and friends finally get a moment of peace, and Subaru goes on a certain secret mission that he must not let anyone find out about! However, even though Subaru is wearing a disguise, Petra and other children of the village immediately figure out who he is. Now that his mission was exposed within five seconds of it starting, what will happen with Subaru\'s \"date course\" with Emilia?</string>
+    <string name="example_language">Japanese</string>
+    <string name="example_runtime">1h 15m</string>
+    <string name="description_poster">This is a poster item</string>
+    <string name="description_background_poster">This is the background of the poster item</string>
+    <string name="description_backhround_rate">This is a rating item</string>
+    <string name="title_text">Title</string>
+    <string name="rate_text">RATE</string>
+    <string name="release_text">Release</string>
+    <string name="overview_text">Overview</string>
+    <string name="language_text">Language</string>
+    <string name="information_text">Information</string>
+    <string name="chg_language">Change Language</string>
+    <string name="tab1">Movie</string>
+    <string name="tab2">Tv Series</string>
+    <string name="type1">movie</string>
+    <string name="type2">tv</string>
+    <string name="error_ms">error: internet connection or something.</string>
+    <string name="head_error">Error!</string>
+    <string name="body_error">Please check the internet first. then return to home to reload.</string>
+
+</resources>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="@dimen/v8dp"
+    android:orientation="vertical">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/h_poster"
+        app:cardCornerRadius="@dimen/v5dp"
+        app:cardElevation="@dimen/v5dp"
+        >
+        <ImageView
+            android:id="@+id/iv_image"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:contentDescription="@string/description_poster"
+            android:scaleType="fitXY"
+            android:src="@drawable/ic_launcher_background" />
+
+        <TextView
+            android:id="@+id/tv_rating"
+            android:layout_width="@dimen/w_rate"
+            android:layout_height="@dimen/h_rate"
+            android:layout_alignParentStart="true"
+            android:background="@color/colorPrimarytransparent"
+            android:gravity="center_vertical"
+            android:text="@string/example_rate"
+            android:textAlignment="center"
+            android:textColor="@color/whiteColor"
+            android:textStyle="bold" />
+
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/v4dp"
+        android:layout_marginTop="@dimen/v4dp"
+        android:layout_marginRight="@dimen/v4dp"
+        android:ellipsize="end"
+        android:maxLines="2"
+        android:minLines="2"
+        android:text="@string/example_title"
+        android:textSize="@dimen/tv14sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tv_release"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/v4dp"
+        android:layout_marginRight="@dimen/v4dp"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:minLines="1"
+        android:text="@string/example_release"
+        android:textSize="@dimen/tv11sp" />
+
+</LinearLayout>

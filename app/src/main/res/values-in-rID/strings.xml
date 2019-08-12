@@ -1,0 +1,28 @@
+<resources>
+    <string name="idlanguage">id-ID</string>
+    <string name="app_name">Catalogue Movie</string>
+    <string name="example_title">Re: Zero kara Hajimeru Isekai Seikatsu - Memory Snow</string>
+    <string name="example_rate">54</string>
+    <string name="example_release">Oktober 6, 2018</string>
+    <string name="example_overview">Subaru dan kawan-kawan akhirnya mendapatkan saat damai, dan Subaru melanjutkan misi rahasia tertentu sehingga dia tidak boleh membiarkan siapa pun mencari tahu! Namun, meskipun Subaru mengenakan penyamaran, Petra dan anak-anak lain di desa segera mengetahui siapa dia. Sekarang misinya terungkap dalam lima detik sejak dimulainya, apa yang akan terjadi dengan \"kursus kencan\" Subaru dengan Emilia?</string>
+    <string name="example_language">Jepang</string>
+    <string name="example_runtime">1j 15m</string>
+    <string name="description_poster">Ini adalah poster</string>
+    <string name="description_background_poster">ini adalah background dari poster</string>
+    <string name="description_backhround_rate">Ini adalah nilai</string>
+    <string name="title_text">Judul</string>
+    <string name="rate_text">NILAI</string>
+    <string name="release_text">Rilisan</string>
+    <string name="overview_text">Kilasan Singkat</string>
+    <string name="language_text">Bahasa</string>
+    <string name="information_text">Informasi</string>
+    <string name="chg_language">Ubah Bahasa</string>
+    <string name="tab1">Movie</string>
+    <string name="tab2">Tv Series</string>
+    <string name="type1">movie</string>
+    <string name="type2">tv</string>
+    <string name="error_ms">error: koneksi internet atau sesuatu.</string>
+    <string name="head_error">Error!</string>
+    <string name="body_error">Tolong periksa kembali jaringan internet. lalu kembali ke home untuk reload.</string>
+
+</resources>
